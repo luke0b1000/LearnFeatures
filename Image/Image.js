@@ -23,7 +23,7 @@ export default class App extends React.Component {
                 />
                 <View style={{margin:50}} />
                 <Image
-                    source={require("./tylermcginnis.png")}
+                    source={require("./Image/tylermcginnis.png")}
                     style={styles.img}
                 />
             </View>
